@@ -1,0 +1,1 @@
+gabosoft_stock_scanner_receipt
